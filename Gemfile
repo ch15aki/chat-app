@@ -55,3 +55,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #ログイン機能実装
 gem 'devise'
+
+#デバッグ作業用
+gem 'pry-rails'
