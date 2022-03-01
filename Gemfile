@@ -65,4 +65,4 @@ gem 'pry-rails'
 
 #画像投稿機能
 gem 'mini_magick'
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
